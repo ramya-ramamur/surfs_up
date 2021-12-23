@@ -26,3 +26,6 @@ The client wants a temperature analysis including statistical inference for the 
 * June and December had a 75th percentile of 77°F and 74°F, respectively, which indicates that these two seasons had relatively warm temperatures.
 
 # Summary:
+The results from the above analysis shows that there is no significant difference in the temperatures in June and December, even though some of the temperatures recorded in December is in the 50's, December would still provide appropriate weather conditions for both surfing and demand in ice cream. While results currently seem favorable, additional data retrieval and analysis has to be done on the following before fixing a final pin.
+* Precipitation analysis per station to detrmine to narrow down the location in Oahu and compare against the temperature. 
+* Other variables such as wind speed/conditions, height of the waves per month, and how foot traffic (tourist seasons) relates to weather conditions, how many surf and ice cream shops are already operating in that area. 
